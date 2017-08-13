@@ -1,0 +1,12 @@
+Run ChatSystem1 project first
+After that run ChatSystem 
+Here ChatSystem1 is  written as server code
+And ChatSystem is written  as client code
+To run this application the operating system must be windows(any version) and E:\\ disk must be in system 
+If any other operating system is used then to run this application a little bit change in code is required->
+(1) change the value of path variable in files
+(a)SignIn.java(line---14)
+(b)forgetPassword.java(line---11)
+(c)CreateAccount.java(line---55)
+(d)changePassword.java(line---11)
+in both(ChatSystem and ChatSystem1) projects
